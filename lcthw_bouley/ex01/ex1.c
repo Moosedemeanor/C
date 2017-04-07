@@ -3,7 +3,9 @@
 /* This is a comment. */
 int main(int argc, char *argv[])
 {
+	// assign 100 to the distance integer
 	int distance = 100;
+	// assign half of the distance integer to the half_distance integer
 	int half_distance = (distance/2);
 	int quarter_dist = (distance/4);
 	int multiplier = (5);
